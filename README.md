@@ -4,4 +4,9 @@ This repository contains my implementations of different algorithms, using moder
 
 The code was implemented against the Visual Studio 2017 C++14 compiler. Algorithm implementations can be found in the /Algorithms subfolder, the corresponding test code in /AlgorithmsTests. 
 
-Open Algorithms.sln in a VS2017-compatible version of Visual studio, open Test Explorer and select "Run all",
+To run the tests, follow these steps:
+
+1. Open Algorithms.sln in a VS2017-compatible version of Visual studio
+2. Build the solution by right clicking it in the Project explorer and selecting "rebuild all" 
+3. Open Test from menue "Test->Window->Test Explorer"
+4. Select "Run all" in Test Explorer
