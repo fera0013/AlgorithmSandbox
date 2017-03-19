@@ -48,7 +48,7 @@ namespace AlgorithmsTests
 
 			std::unordered_map <int, std::vector<int>> largeGraph = ReadGraphFromFile("..\\Data\\KargerMinCut.txt");
 			expectedMinNodeCount = 17;
-			minNodeCount = GetKargerMinCut(largeGraph, 1000);
+			minNodeCount = GetKargerMinCut(largeGraph, 100);
 			Assert::AreEqual(expectedMinNodeCount, minNodeCount);
 		}
 	};
