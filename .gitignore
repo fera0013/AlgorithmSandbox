@@ -22,3 +22,5 @@ Algorithms/Debug/stdafx.obj
 *.dll
 *.exp
 Debug/AlgorithmsTests.ilk
+*.DS_Store
+/algo1slides

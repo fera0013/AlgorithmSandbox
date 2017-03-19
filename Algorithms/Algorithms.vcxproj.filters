@@ -30,9 +30,15 @@
     <ClInclude Include="Inversions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="KargerMinCut.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KargerMinCut.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
