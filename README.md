@@ -1,6 +1,6 @@
 # AlgorithmSandbox
 
-This repository contains my implementations of different algorithms, using modern C++14 features. Some of the implementations were used to pass the programming assignments of the stanford algorithms course at https://www.coursera.org/specializations/algorithms. 
+This repository contains my implementations of different algorithms, using modern C++14 features. Some of the implementations were used to pass the programming assignments of the Stanford algorithms course at https://www.coursera.org/specializations/algorithms. 
 
 The code was implemented against the Visual Studio 2017 C++14 compiler. Algorithm implementations can be found in the /Algorithms subfolder, the corresponding test code in /AlgorithmsTests. 
 
